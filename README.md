@@ -68,7 +68,6 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  Developed by: RegisterNumber: 212223230079
 ![WhatsApp Image 2024-03-18 at 02 50 58_11c99223](https://github.com/hindhujanaki/study-of-basic-gates/assets/148514666/6aaf32dc-94d7-4f33-9920-7360ff2587dc)
-
 **RTL**
 ![Screenshot 2024-03-07 143143](https://github.com/hindhujanaki/study-of-basic-gates/assets/148514666/b4d6a00d-69bc-4449-ab7a-37c932249545)
 
